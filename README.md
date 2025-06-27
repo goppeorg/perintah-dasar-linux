@@ -50,5 +50,3 @@ Berikut adalah **daftar perintah dasar Linux** yang sering digunakan, cocok untu
 | `chown`         | Ganti pemilik file/direktori        |
 
 ---
-
-Kalau kamu ingin versi **printable (PDF)** atau file Markdown, aku bisa bantu buatin juga. Mau?
